@@ -4,6 +4,8 @@
 
 You can [discuss here](https://github.com/libsugar/.github/discussions)
 
+**If your language is not here, welcome contribute, or submit an issue**
+
 ## Repos
 
 ![JS](https://img.shields.io/badge/JS-232323?logo=javascript)
