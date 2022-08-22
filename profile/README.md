@@ -20,7 +20,7 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
 
 
 
-![Rust](https://img.shields.io/badge/Rust-f64a00?logo=rust&logoColor=232323&labelColor=dea584)
+![Rust](https://img.shields.io/badge/Rust-dea584?logo=rust&logoColor=232323)
 
 - [sugar.rs](https://github.com/libsugar/sugar.rs)  
   Rust version
@@ -39,7 +39,7 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
   ![LICENSE](https://img.shields.io/crates/l/tuples)
   
 
-![.NET](https://img.shields.io/badge/C%23-239120?logo=.NET&labelColor=512BD4)
+![.NET](https://img.shields.io/badge/C%23-512BD4?logo=.NET)
 ![Unity](https://img.shields.io/badge/Unity-fcfcfc?logo=Unity&logoColor=232323)
   
 - [SugarCs](https://github.com/libsugar/SugarCs)
