@@ -1,10 +1,10 @@
-## LibSugar
-
-#### Like syntactic sugar, but is library
+## Like syntactic sugar, but is library
 
 > The main goal of the libsugar project is to eliminate the differences in the standard library between different languages and the secondary goal is to provide many sweet tools
 
 You can [discuss here](https://github.com/libsugar/.github/discussions)
+
+![LibSugar](../libsuga.socialr.png)
 
 <!--
 
