@@ -4,8 +4,6 @@
 
 You can [discuss here](https://github.com/libsugar/.github/discussions)
 
-![LibSugar](https://raw.githubusercontent.com/libsugar/.github/main/libsuga.socialr.png)
-
 ## Repos
 
 ![JS](https://img.shields.io/badge/JS-232323?logo=javascript)
@@ -40,9 +38,33 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
   [![documentation](https://docs.rs/tuples/badge.svg)](https://docs.rs/tuples)
   ![LICENSE](https://img.shields.io/crates/l/tuples)
   
+
+![.NET](https://img.shields.io/badge/C%23-239120?logo=.NET&labelColor=512BD4)
+![Unity](https://img.shields.io/badge/Unity-fcfcfc?logo=Unity&logoColor=232323)
   
+- [SugarCs](https://github.com/libsugar/SugarCs)
+  C# version
   
+  [![NPM](https://img.shields.io/npm/v/com.libsugar.sugar)](https://www.npmjs.com/package/com.libsugar.sugar)
+  [![Nuget](https://img.shields.io/nuget/v/LibSugar)](https://www.nuget.org/packages/LibSugar/)
+  [![openupm](https://img.shields.io/npm/v/com.libsugar.sugar?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.libsugar.sugar/)
+  ![MIT](https://img.shields.io/github/license/libsugar/SugarCs)
   
+- [SugarUnity](https://github.com/libsugar/SugarUnity)
+  Unity Utils
+  
+  [![NPM](https://img.shields.io/npm/v/com.libsugar.sugar.unity)](https://www.npmjs.com/package/com.libsugar.sugar.unity)
+  [![Nuget](https://img.shields.io/nuget/v/LibSugar.Unity)](https://www.nuget.org/packages/LibSugar.Unity/)
+  [![openupm](https://img.shields.io/npm/v/com.libsugar.sugar.unity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.libsugar.sugar.unity/)
+  ![MIT](https://img.shields.io/github/license/libsugar/SugarUnity)
+
+- [NInt.MinMaxValue](https://github.com/libsugar/NInt.MinMaxValue)
+  Provides nuint MinMaxValue support for .net standard
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
