@@ -4,7 +4,7 @@
 
 You can [discuss here](https://github.com/libsugar/.github/discussions)
 
-**If your language is not here, welcome contribute, or submit an [issue](https://github.com/libsugar/.github/issues)**
+**If your language / desired utility is not here, welcome contribute, or submit an [issue](https://github.com/libsugar/.github/issues)**
 
 ![LibSugar](https://raw.githubusercontent.com/libsugar/.github/main/libsuga.socialr.png)
 
