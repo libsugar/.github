@@ -4,7 +4,7 @@
 
 You can [discuss here](https://github.com/libsugar/.github/discussions)
 
-![LibSugar](../libsuga.socialr.png)
+![LibSugar](https://raw.githubusercontent.com/libsugar/.github/main/libsuga.socialr.png)
 
 <!--
 
