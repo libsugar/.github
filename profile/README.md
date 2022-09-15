@@ -13,7 +13,7 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
 ![JS](https://img.shields.io/badge/JS-232323?logo=javascript)
 ![TS](https://img.shields.io/badge/TS-fcfcfc?logo=typescript)
 
-- [sugar.js](https://github.com/libsugar/sugar.js)
+- [sugar.js](https://github.com/libsugar/sugar.js)  
   Js/Ts version
   
   ![Node.js CI](https://github.com/libsugar/sugar.js/workflows/Node.js%20CI/badge.svg)
@@ -46,7 +46,7 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
 ![.NET](https://img.shields.io/badge/C%23-512BD4?logo=.NET)
 ![Unity](https://img.shields.io/badge/Unity-fcfcfc?logo=Unity&logoColor=232323)
   
-- [SugarCs](https://github.com/libsugar/SugarCs)
+- [SugarCs](https://github.com/libsugar/SugarCs)  
   C# version
   
   [![.NET](https://github.com/libsugar/SugarCs/actions/workflows/dotnet.yml/badge.svg)](https://github.com/libsugar/SugarCs/actions/workflows/dotnet.yml)
@@ -56,7 +56,7 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
   ![MIT](https://img.shields.io/github/license/libsugar/SugarCs)
   [![ApiDoc](https://img.shields.io/badge/ApiDoc-222222?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAXCAYAAAAV1F8QAAAACXBIWXMAAAsSAAALEgHS3X78AAABpElEQVRIib2WQU7CUBCGfwh7dOdO8sc9uHMnJzC6N7Hu3KknsJzA3kC8AZ5AuEE5ABNMXLhE414zZJ4OpS1gin8C75U3ne9N5zHT2mQyiQC0sKghgC7KNQMwIDldYTdXwxxe5KzdrXH/vYiMAMQkh2WGdZIaUW+dXRXoGMCziCS6LCI7uSD9IhkDeCpw9A7gkGQtfADsAjgDMHJ21yLSBxCJyGkuyJQWgFKSC2skZyQ1P/rYL92SpmAPQF9Eok1BpSLZz8CuFATgwSJcAs3+AsIvLDz6JoCPEGGIrF58+8aK3Q0nAMY2jysFWR5f7LLtUrEvIp0qI1IV/XkrB3m9uXnrv0CVHoZSbRN04C+2Cfp082nVoI6NesyPbK61clAZyCpA0y4HVtVVidbGSkDWGhL306uNY+sMCznqIF+5/SUDGbpotLed2yP7aRceVOSwXQLpGiTYPFpx1leDrm/zDberqMRhag5S25A60tFvQiFaxW90XfPifTSsG6pBCL0sqpDgrG5JJiKigKXuqtK3oC87jr4gzltyxtZDgr2ertVvQgC+AfGSgtzXl3gYAAAAAElFTkSuQmCC)](https://libsugar.github.io/SugarCs/api/LibSugar.html)
   
-- [SugarUnity](https://github.com/libsugar/SugarUnity)
+- [SugarUnity](https://github.com/libsugar/SugarUnity)  
   Unity Utils
   
   [![NPM](https://img.shields.io/npm/v/com.libsugar.sugar.unity)](https://www.npmjs.com/package/com.libsugar.sugar.unity)
@@ -64,7 +64,7 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
   [![openupm](https://img.shields.io/npm/v/com.libsugar.sugar.unity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.libsugar.sugar.unity/)
   ![MIT](https://img.shields.io/github/license/libsugar/SugarUnity)
 
-- [NInt.MinMaxValue](https://github.com/libsugar/NInt.MinMaxValue)
+- [NInt.MinMaxValue](https://github.com/libsugar/NInt.MinMaxValue)  
   Provides nuint MinMaxValue support for .net standard
 
 
