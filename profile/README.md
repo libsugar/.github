@@ -63,6 +63,13 @@ You can [discuss here](https://github.com/libsugar/.github/discussions)
   [![Nuget](https://img.shields.io/nuget/v/LibSugar.Unity)](https://www.nuget.org/packages/LibSugar.Unity/)
   [![openupm](https://img.shields.io/npm/v/com.libsugar.sugar.unity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.libsugar.sugar.unity/)
   ![MIT](https://img.shields.io/github/license/libsugar/SugarUnity)
+  
+- [SugarUnity.Mathematics](https://github.com/libsugar/SugarUnity.Mathematics)  
+  Unity Mathematics Utils
+  
+  [![NPM](https://img.shields.io/npm/v/com.libsugar.sugar.unity.mathematics)](https://www.npmjs.com/package/com.libsugar.sugar.unity.mathematics)
+[![openupm](https://img.shields.io/npm/v/com.libsugar.sugar.unity.mathematics?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.libsugar.sugar.unity.mathematics/)
+![MIT](https://img.shields.io/github/license/libsugar/SugarUnity.Mathematics)
 
 - [NInt.MinMaxValue](https://github.com/libsugar/NInt.MinMaxValue)  
   Provides nuint MinMaxValue support for .net standard
